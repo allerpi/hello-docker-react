@@ -12,6 +12,6 @@ Using [react-media-recorder](https://www.npmjs.com/package/react-media-recorder)
   - hooks
   - states
 </details>
-<detail> <summary>Authenticator</summary>
+<details> <summary>Authenticator</summary>
 Using Cognito, create a web app that enables a user to authenticate. It remembers the user's ID using states. Also uses Amplify UI.
 </details>
